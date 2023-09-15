@@ -1,0 +1,12 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    align-items: center;
+}
+body{
+    background-color: deeppink;
+    font-family: 'Mooli', sans-serif;
+/* font-family: 'Playfair Display', serif; */
+}
